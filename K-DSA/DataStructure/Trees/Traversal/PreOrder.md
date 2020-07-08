@@ -1,7 +1,20 @@
 K-DSA
 A Data Structure and Algorithm Repo with all Samples and Code Written in Kotlin
 
-Code Sample , Android App And Github page samples will be added
+
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/Androidiots/Androidiots.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+
+PreOrder Traversal
 
 fun main() {
 
@@ -71,3 +84,7 @@ fun preOrderRec( root : BinaryTreeNode?) {
     } 
 } 
 }
+
+```
+
+
