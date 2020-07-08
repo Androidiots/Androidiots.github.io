@@ -1,3 +1,8 @@
+---
+layout: page
+title: BST
+---
+
 ## Welcome to Androidiots Pages
 
 
