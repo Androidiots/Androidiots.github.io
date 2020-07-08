@@ -6,6 +6,7 @@
 This is the home page for all androiditos web pages
 
 ```markdown
+remote_theme: jekyll-theme-architect
 Few of the projects that you can look out for are
 
 # KDSA
