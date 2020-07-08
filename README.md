@@ -1,29 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Androidiots Pages
 
-You can use the [editor on GitHub](https://github.com/Androidiots/Androidiots.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is the home page for all androiditos web pages
 
 ```markdown
-Syntax highlighted code block
+Few of the projects that you can look out for are
 
-# Header 1
-## Header 2
-### Header 3
+# KDSA
+## Design Patterns in Kotlin
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Link](https://github.com/AnupamSingh0211/K-DSA) 
+[Link ](https://github.com/AnupamSingh0211/designPatternsInKotlin)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
