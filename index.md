@@ -5,6 +5,8 @@
 
 This is the home page for all androiditos web pages
 
+Index
+
 ```markdown
 Few of the projects that you can look out for are
 
